@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MetaShop.DAL.EntityConfigurations
 {
-    internal class CouponEntityConfiguration
+    internal class AssetEntityConfiguration
     {
     }
 }
